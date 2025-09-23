@@ -296,3 +296,34 @@
 项目的亮点在于微服务架构的合理运用、统一认证机制的设计、以及第三方服务的优雅集成。同时，项目也克服了微服务架构带来的复杂性挑战，如服务间调用、数据一致性、分布式事务等难点问题。
 
 该项目不仅是一个完整的电商解决方案，更是学习和实践微服务架构的优秀案例，对于理解现代化电商系统的设计和实现具有重要的参考价值。
+
+## 10.项目运行图
+
+### 后台管理端
+
+<img width="1920" height="902" alt="image" src="https://github.com/user-attachments/assets/dd6411a5-fbde-403d-942a-261ae253c178" />
+
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/cfe026cc-75e3-45ec-81b9-2e642c8c392e" />
+
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/4bcaac6a-6f00-4dd1-9f77-8f71b16aec2a" />
+
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/0b16faa2-17c8-4ab4-83cf-1415e87f90f1" />
+
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/5e674a29-bc3c-4f40-9c28-ce4bfca3ce67" />
+
+<img width="1920" height="1014" alt="image" src="https://github.com/user-attachments/assets/78e444bb-0c84-4e05-adc4-bc2bd9e9db7f" />
+
+<img width="1917" height="949" alt="image" src="https://github.com/user-attachments/assets/9cf71968-d5ff-43a4-ab77-2832c40beb05" />
+
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/db72b3bf-b913-45d6-a2dc-6c75d14ad168" />
+
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/35287ed3-735a-4470-9549-fffac5efdfdc" />
+
+<img width="1920" height="958" alt="image" src="https://github.com/user-attachments/assets/e1417d5b-6098-491a-bdb7-211930e0f319" />
+
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/7426941f-7f28-4d0d-ad95-612e1c32448b" />
+
+<img width="1915" height="896" alt="image" src="https://github.com/user-attachments/assets/c21ac5bd-3240-47ea-9313-ecefe8a9a31b" />
+
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/f62c402a-78b4-4c3f-903d-3e40f7e3e2f7" />
+

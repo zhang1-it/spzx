@@ -1,0 +1,37 @@
+# 配置服务端口号
+server:
+  port: 10200
+
+# 配置数据库的连接信息
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.186.102:3306/spzx_cloud_order?characterEncoding=UTF8
+    username: root
+    password: 1234
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.186.102:8848
+        namespace: dev
+        cluster-name: HB
+  application:
+    name: spzx-cloud-order
+
+
+# 配置mybatis的相关信息
+mybatis:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    map-underscore-to-camel-case: true
+  type-aliases-package: com.atguigu.spzx.entity
+  mapper-locations: classpath:/mapper/*.xml
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"    # 开启所有需要监控的指标端点
+  endpoint:
+    health:
+      show-details: always

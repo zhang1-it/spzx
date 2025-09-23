@@ -1,0 +1,38 @@
+# application.yml文件内容
+server:
+  port: 20100
+
+# bootstrap.yml文件
+spring:
+  application:
+    name: spzx-cloud-sba
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.186.102:8848
+        namespace: dev
+
+  mail:
+    host: smtp.qq.com
+    port: 465
+    username: 2660393395@qq.com
+    password: ${QQ_Email}
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:   # 使用 SSL 安全协议，须如下配置
+            enable: true
+            required: true
+    protocol: smtps   # 465端口使用的通讯协议为smtps
+  boot:
+    admin:
+      notify:
+        mail:
+          to: 2660393395@qq.com
+          from: 2660393395@qq.com
+          enabled: true
+        filter:
+          health-status: DOWN       # 邮件通知策略，当微服务下线的时候发送通知邮件
+      monitor:
+        default-timeout: 30000

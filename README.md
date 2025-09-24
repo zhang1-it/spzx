@@ -327,3 +327,7 @@
 
 <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/f62c402a-78b4-4c3f-903d-3e40f7e3e2f7" />
 
+### 移动端
+
+<img width="442" height="784" alt="image" src="https://github.com/user-attachments/assets/dc4ecddf-f0e4-44b3-b880-b55fa922246f" />
+

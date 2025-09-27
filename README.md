@@ -329,7 +329,19 @@
 
 ### 移动端
 
+#### 登录
+
 <img width="442" height="784" alt="image" src="https://github.com/user-attachments/assets/dc4ecddf-f0e4-44b3-b880-b55fa922246f" />
+
+#### 注册
+
+<img width="442" height="791" alt="image" src="https://github.com/user-attachments/assets/5f59e933-d28e-4437-8386-145d4dd258d7" />
+
+
+#### 首页
+
+<img width="440" height="767" alt="image" src="https://github.com/user-attachments/assets/3bc7d312-5642-40c1-80d0-b451b43d2ec3" />
+
 
 #### 商品详情
 

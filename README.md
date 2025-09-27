@@ -1,8 +1,8 @@
-# 尚品甄选（SPZX）项目介绍
+# 商品甄选（SPZX）项目介绍
 
 ## 1. 项目背景
 
-尚品甄选（SPZX）是一个基于Spring Cloud微服务架构的现代化电商平台项目。该项目致力于构建一个功能完整、技术先进的电商生态系统，涵盖商品管理、用户管理、订单处理、支付结算、购物车等核心电商业务场景。
+商品甄选（SPZX）是一个基于Spring Cloud微服务架构的现代化电商平台项目。该项目致力于构建一个功能完整、技术先进的电商生态系统，涵盖商品管理、用户管理、订单处理、支付结算、购物车等核心电商业务场景。
 
 随着电商行业的快速发展，传统的单体架构已无法满足现代电商平台对高并发、高可用、可扩展性的要求。本项目采用微服务架构设计，实现了业务解耦、服务独立部署、技术栈灵活选择等优势，为电商平台的持续发展提供了坚实的技术基础。
 
@@ -331,3 +331,36 @@
 
 <img width="442" height="784" alt="image" src="https://github.com/user-attachments/assets/dc4ecddf-f0e4-44b3-b880-b55fa922246f" />
 
+#### 商品详情
+
+<img width="429" height="796" alt="image" src="https://github.com/user-attachments/assets/6c2cdfca-53f2-4659-bc86-902aaacff125" />
+
+<img width="442" height="784" alt="image" src="https://github.com/user-attachments/assets/1710d239-466e-4dc1-a0f0-39c48668cdbf" />
+
+#### 立即购买
+
+<img width="439" height="771" alt="image" src="https://github.com/user-attachments/assets/5299bbf4-01ee-431f-9596-0e45bea27e39" />
+
+#### 提交订单
+
+<img width="435" height="785" alt="image" src="https://github.com/user-attachments/assets/bcf709bb-34a9-4e71-90a8-ce6788578f00" />
+
+#### 购物车
+
+<img width="428" height="791" alt="image" src="https://github.com/user-attachments/assets/3f702e31-9b3d-49a9-b16f-670c871f8d0d" />
+
+#### 清空购物车
+
+<img width="444" height="797" alt="image" src="https://github.com/user-attachments/assets/a3da76bf-388d-41cd-ab7f-28e1db7b4bd7" />
+
+#### 分类
+
+<img width="438" height="780" alt="image" src="https://github.com/user-attachments/assets/a398592f-1210-4b30-870b-d7d695401557" />
+
+#### 历史订单
+
+<img width="447" height="763" alt="image" src="https://github.com/user-attachments/assets/d9463904-01db-4cdf-8c60-b8ff6053fdaa" />
+
+#### 我的
+
+<img width="443" height="772" alt="image" src="https://github.com/user-attachments/assets/81909b5a-c0fc-4683-8114-61f41ae2c067" />
